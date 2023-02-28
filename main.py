@@ -1,5 +1,5 @@
-#This code is to import tkinter libraries remeber to do " py install tk "
-#This code is under the license of Creative Commons Zero v1.0 Universal
+#Just some imports
+
 from tkinter import *
 from tkinter.ttk import *
 
